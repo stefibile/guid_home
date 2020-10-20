@@ -1,0 +1,15 @@
+$color: #B86160;
+$color2: #54595d;
+
+h3 {
+    color: $color2;
+}
+
+@mixin transform {
+    transform: rotate(360deg);
+    transition: all 0.5s
+}
+
+.iconos:hover {
+    @include transform ();
+}
