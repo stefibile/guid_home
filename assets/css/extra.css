@@ -1,0 +1,91 @@
+.navbar-brand img {
+    width: 100px;
+}
+
+.single_portfolio::before {
+    background-color:#f4e4daab;
+}
+
+.single_portfolio .portfolio_content .portfolio_title {
+    font-size: 50px;
+    font-weight: 600;
+    color: #b86160;
+    font-family: 'Slabo 27px', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Slabo 27px', serif;
+    letter-spacing: 2px;
+}
+
+.contact_area::before {
+    background-color: #212529cc;
+}
+
+.navbar-nav .nav-item a {
+    font-family: 'Slabo 27px', serif;
+    letter-spacing: 2px;
+}
+
+.icon {
+    height: 140px;
+}
+
+.hero_content .hero_title {
+    font-size: 80px;
+    line-height: 65px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #b86160;
+    border-color: #b86160;
+}
+
+.btn-primary:hover {
+    color: #b86160;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.single_portfolio .portfolio_content {
+    padding: 150px 0 150px 0;
+}
+
+.modal-content {
+    border: none;
+    background-color: #F2E1D7;
+}
+
+.modal-title {
+    color: #B15D5D;
+    font-size: 24px;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+
+}
+.close {
+    color: #b86160;
+}
+
+.close:hover {
+    color: #6c757d;
+}
+
+.footer_area {
+    justify-content: center;
+}
+
+.mercadopago-button {
+    background: #B15D5D!important;
+}
+
+.bg_cover {
+    background-size: auto;
+}
+
