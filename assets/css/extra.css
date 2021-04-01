@@ -84,9 +84,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .mercadopago-button {
     background: #B15D5D!important;
+    float: right;
 }
 
 .bg_cover {
     background-size: auto;
+}
+
+.text-primary {
+    color: #b86160 !important;
 }
 
