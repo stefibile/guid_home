@@ -95,3 +95,32 @@ h1, h2, h3, h4, h5, h6 {
     color: #b86160 !important;
 }
 
+.agotado {
+    color: #fff;
+    background-color: #212529;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+
+/* LISTA DE PRECIOS */
+
+/* Cortinas */
+.preciocortina::after {content: "$3000";}
+.preciocortinaprot::after {content: "$3900";}
+.preciocortinaganch::after {content: "$3800";}
+.preciocortinacombo::after {content: "$4300";}
+
+/* Tapices */
+.preciotapizchico::after {content: "$1600";}
+.preciotapizgrande::after {content: "$2200";}
+.preciotapizextragrande::after {content: "$3200";}
+
+/* Toallas y toallones */
+.preciotoalla::after {content: "$1000";}
+.preciotoallon::after {content: "$2500";}
+
+/* Manteles */
+.preciomantel::after {content: "$2200";}
+
