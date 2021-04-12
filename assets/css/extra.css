@@ -107,10 +107,10 @@ h1, h2, h3, h4, h5, h6 {
 /* LISTA DE PRECIOS */
 
 /* Cortinas */
-.preciocortina::after {content: "$3000";}
-.preciocortinaprot::after {content: "$3900";}
-.preciocortinaganch::after {content: "$3800";}
-.preciocortinacombo::after {content: "$4300";}
+.preciocortina::after {content: "$3400";}
+.preciocortinaprot::after {content: "$4200";}
+.preciocortinaganch::after {content: "$4100";}
+.preciocortinacombo::after {content: "$4600";}
 
 /* Tapices */
 .preciotapizchico::after {content: "$1600";}
