@@ -108,10 +108,10 @@ h1, h2, h3, h4, h5, h6 {
 /* LISTA DE PRECIOS */
 
 /* Cortinas */
-.preciocortina::after {content: "$3400";}
-.preciocortinaprot::after {content: "$4200";}
-.preciocortinaganch::after {content: "$4100";}
-.preciocortinacombo::after {content: "$4600";}
+.preciocortina::after {content: "$3500";}
+.preciocortinaprot::after {content: "$4400";}
+.preciocortinaganch::after {content: "$4200";}
+.preciocortinacombo::after {content: "$4800";}
 
 /* Tapices */
 .preciotapizchico::after {content: "$1600";}
@@ -124,4 +124,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Manteles */
 .preciomantel::after {content: "$2200";}
+
+/* Mantas */
+.preciomanta::after {content: "$5100";}
+
+/* Caminos */
+.preciocamino::after {content: "$1050";}
 
