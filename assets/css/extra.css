@@ -89,6 +89,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .bg_cover {
     background-size: auto;
+    height: calc(100vh - 90px);
+    display: flex;
+    align-items: center;
 }
 
 .text-primary {
@@ -108,26 +111,26 @@ h1, h2, h3, h4, h5, h6 {
 /* LISTA DE PRECIOS */
 
 /* Cortinas */
-.preciocortina::after {content: "$3500";}
-.preciocortinaprot::after {content: "$4400";}
-.preciocortinaganch::after {content: "$4200";}
-.preciocortinacombo::after {content: "$4800";}
+.preciocortina::after {content: "$4200";}
+.preciocortinaprot::after {content: "$5100";}
+.preciocortinaganch::after {content: "$4900";}
+.preciocortinacombo::after {content: "$5500";}
 
 /* Tapices */
-.preciotapizchico::after {content: "$1600";}
-.preciotapizgrande::after {content: "$2200";}
-.preciotapizextragrande::after {content: "$3200";}
+.preciotapizchico::after {content: "$1900";}
+.preciotapizgrande::after {content: "$2600";}
+.preciotapizextragrande::after {content: "$3800";}
 
 /* Toallas y toallones */
-.preciotoalla::after {content: "$1000";}
-.preciotoallon::after {content: "$2500";}
+.preciotoalla::after {content: "$1200";}
+.preciotoallon::after {content: "$3000";}
 
 /* Manteles */
-.preciomantel::after {content: "$2200";}
+.preciomantel::after {content: "$2600";}
 
 /* Mantas */
-.preciomanta::after {content: "$5100";}
+.preciomanta::after {content: "$6100";}
 
 /* Caminos */
-.preciocamino::after {content: "$1050";}
+.preciocamino::after {content: "$1300";}
 
